@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/favicon.svg",
+    "/og.jpg",
+    "/__grok/icon-180.png",
+    "/assets/about-CZI5mM8V.js",
+    "/assets/enquire-form-NgwgU-vk.js",
+    "/assets/enquire-vjl22cKR.js",
+    "/assets/index-BJTtAVXq.js",
+    "/assets/privacy-TFtCYaRU.js",
+    "/assets/routes-3M9Pxbtp.js",
+    "/assets/safeguarding-B6tmgIEM.js",
+    "/assets/site-shell-ClfVJF0V.js",
+    "/assets/styles-OYmkiwIM.css",
+    "/assets/syllabus-Jk4HwLgd.js",
+    "/assets/terms-BujbcuAJ.js",
+    "/assets/timings-Bg0i8hl0.js",
+    "/images/banner.jpg",
+    "/images/droplets.jpg",
+    "/images/eye.jpg",
+    "/images/filaments.jpg",
+    "/images/hero-poster.jpg",
+    "/images/hero.jpg",
+    "/images/ripples.jpg",
+    "/videos/hero.mp4",
+    "/__grok/install/styles.css",
+    "/__grok/install/assets/homescreen/glass-puzzle.svg",
+    "/__grok/install/assets/homescreen/glass-share.svg",
+    "/__grok/install/assets/homescreen/logo-grok.svg",
+    "/__grok/install/assets/homescreen/ob-ipad.png",
+    "/__grok/install/assets/homescreen/ob-phone.png",
+    "/__grok/install/assets/homescreen/plus.svg"
+  ]
+}
